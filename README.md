@@ -22,11 +22,12 @@ The dataset consists of the following columns:
 
 # Step-by-Step Analysis Procedure
 
-1.	Load the dataset into a pandas DataFrame
+Load the dataset into a pandas DataFrame
 
-2.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
+## Data Cleaning: 
+Convert ratings from string format to numeric and check for missing or null values.
 
-3.	## Exploratory Data Analysis (EDA):
+## Exploratory Data Analysis (EDA):
 1.	Analyze the distribution of restaurant types using count plots.
 2.	Calculate and visualize total customer votes by restaurant type.
 3.	Explore rating distributions via histograms.

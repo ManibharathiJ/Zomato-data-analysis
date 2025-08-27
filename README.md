@@ -20,23 +20,23 @@ The dataset consists of the following columns:
 2.	Install Jupyter Notebook to run the analysis interactively.
 3.	Install required libraries
 
-## Step-by-Step Analysis Procedure
+# Step-by-Step Analysis Procedure
 1.	Load the dataset into a pandas DataFrame.
-   
-3.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
-   
-5.	Exploratory Data Analysis (EDA):o	Analyze the distribution of restaurant types using count plots.
-o	Calculate and visualize total customer votes by restaurant type.
-o	Explore rating distributions via histograms.
-o	Examine spending preferences of couples through cost analysis.
-o	Compare ratings for online vs offline ordering options with box plots.
-o	Investigate online order availability by restaurant type using pivot tables and heatmaps.
+2.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
+3.	Exploratory Data Analysis (EDA):
+	Analyze the distribution of restaurant types using count plots.
+	Calculate and visualize total customer votes by restaurant type.
+	Explore rating distributions via histograms.
+	Examine spending preferences of couples through cost analysis.
+	Compare ratings for online vs offline ordering options with box plots.
+	Investigate online order availability by restaurant type using pivot tables and heatmaps.
+4.	Summary Insights:
+	Identify the most popular restaurant types among customers.
+	Determine the restaurant type with the highest votes.
+	Understand the common rating ranges and spending limits.
+	Evaluate if online or offline ordering receives better ratings.
+	Pinpoint restaurant types with predominantly offline orders for targeted offers.
 
-7.	Summary Insights:o	Identify the most popular restaurant types among customers.
-o	Determine the restaurant type with the highest votes.
-o	Understand the common rating ranges and spending limits.
-o	Evaluate if online or offline ordering receives better ratings.
-o	Pinpoint restaurant types with predominantly offline orders for targeted offers.
 
 
 

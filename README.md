@@ -26,7 +26,7 @@ The dataset consists of the following columns:
 
 2.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
 
-3.	Exploratory Data Analysis (EDA):
+3.	## Exploratory Data Analysis (EDA):
 1.	Analyze the distribution of restaurant types using count plots.
 2.	Calculate and visualize total customer votes by restaurant type.
 3.	Explore rating distributions via histograms.

@@ -20,21 +20,19 @@ The dataset consists of the following columns:
 2.	Install Jupyter Notebook to run the analysis interactively.
 3.	Install required libraries
 
-# Step-by-Step Analysis Procedure
+## Step-by-Step Analysis Procedure
 1.	Load the dataset into a pandas DataFrame.
-2.	
+   
 3.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
-4.	
-5.	Exploratory Data Analysis (EDA):
-o	Analyze the distribution of restaurant types using count plots.
+   
+5.	Exploratory Data Analysis (EDA):o	Analyze the distribution of restaurant types using count plots.
 o	Calculate and visualize total customer votes by restaurant type.
 o	Explore rating distributions via histograms.
 o	Examine spending preferences of couples through cost analysis.
 o	Compare ratings for online vs offline ordering options with box plots.
 o	Investigate online order availability by restaurant type using pivot tables and heatmaps.
 
-7.	Summary Insights:
-o	Identify the most popular restaurant types among customers.
+7.	Summary Insights:o	Identify the most popular restaurant types among customers.
 o	Determine the restaurant type with the highest votes.
 o	Understand the common rating ranges and spending limits.
 o	Evaluate if online or offline ordering receives better ratings.

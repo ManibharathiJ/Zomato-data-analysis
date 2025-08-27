@@ -21,21 +21,10 @@ The dataset consists of the following columns:
 3.	Install required libraries
 
 # Step-by-Step Analysis Procedure
-1.	Load the dataset into a pandas DataFrame.
-2.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
-3.	Exploratory Data Analysis (EDA):
-	Analyze the distribution of restaurant types using count plots.
-	Calculate and visualize total customer votes by restaurant type.
-	Explore rating distributions via histograms.
-	Examine spending preferences of couples through cost analysis.
-	Compare ratings for online vs offline ordering options with box plots.
-	Investigate online order availability by restaurant type using pivot tables and heatmaps.
-4.	Summary Insights:
-	Identify the most popular restaurant types among customers.
-	Determine the restaurant type with the highest votes.
-	Understand the common rating ranges and spending limits.
-	Evaluate if online or offline ordering receives better ratings.
-	Pinpoint restaurant types with predominantly offline orders for targeted offers.
+
+1.	Load the dataset into a pandas DataFrame
+
+   2.	Data Cleaning: Convert ratings from string format to numeric and check for missing or null values.
 
 
 
